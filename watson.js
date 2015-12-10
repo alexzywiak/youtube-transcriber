@@ -4,8 +4,8 @@ var path = require('path');
 var Promise = require('bluebird');
 
 var speech_to_text = watson.speech_to_text({
-  username: '505575e5-324c-45f6-b22e-751a23d6680d',
-  password: 'UfEnWMLWZCuz',
+  username: <YOUR CREDS HERE>,
+  password: <YOUR CREDS HERE>,
   version: 'v1',
   url: 'https://stream.watsonplatform.net/speech-to-text/api',
 });
