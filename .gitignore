@@ -1,0 +1,4 @@
+node_modules
+transcript.json
+*.flac
+*.mp3
